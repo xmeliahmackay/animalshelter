@@ -22,7 +22,7 @@ h2 {
 }
 img {
   width: 380px;
-  
+  align-content: center;
 }
 .hilight {
   font-weight: bold;
