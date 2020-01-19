@@ -1,10 +1,29 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
 .column {
   width: 30%;
   float: right;
   border: 2px solid black;
   padding: 10px;
   margin: 5px;
+  height: 680px;
+}
+.column ul {
+  text-align: center;
+  font-style: italic;
+}
+.column h3 {
+  text-align: center;
+  font-style: italic;
 }
 img {
-  width: 280px;
+  width: 380px;
+  
+}
+.hilight {
+  font-weight: bold;
 }
